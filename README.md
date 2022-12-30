@@ -5,7 +5,7 @@ I'm a Fullstack developer and a project coordinator: i have to manage the tasks,
 
 
 ## What i am doing
-👩‍💻 I'm currently working on [portfolio-website](https://github.com/fbarrera29/portfolio-website)
+👩‍💻 I'm currently working on [personal-page-website](https://github.com/fbarrera29/personal-page-website)
 
 🧠 I'm currently learning [typescript](https://www.typescriptlang.org/) and i'm studying [chakra-ui](https://chakra-ui.com/), [tailwindcss](https://tailwindcss.com/)
 
