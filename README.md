@@ -5,9 +5,9 @@ I'm a Fullstack developer and a project coordinator: i have to manage the tasks,
 
 
 ## What i am doing
-👩‍💻 I'm currently working on [personal-page-website](https://github.com/fbarrera29/personal-page-website)
+👩‍💻 I'm currently working on [nextJSwTypescript-Objection-Nginx-Jest](https://github.com/fbarrera29/nextJSwTypescript-Objection-Nginx-Jest)
 
-🧠 I'm currently learning [typescript](https://www.typescriptlang.org/) and i'm studying [chakra-ui](https://chakra-ui.com/), [tailwindcss](https://tailwindcss.com/)
+🧠 At the moment i'm learning [typescript](https://www.typescriptlang.org/) and i'm studying [chakra-ui](https://chakra-ui.com/), [tailwindcss](https://tailwindcss.com/)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-barrera-b9758a139/)
